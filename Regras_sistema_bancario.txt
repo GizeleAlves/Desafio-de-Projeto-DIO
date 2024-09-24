@@ -1,0 +1,11 @@
+#Regras de Negócio
+
+
+# 1- Três operações: depósito, saque e extrato
+# 2- Só é possível depositar valores positivos
+# 3- Todos os depositos devem ser armazenados em uma variável e exibidos na opção de extrato
+# 4- Só é possível realizar 3 saques diários
+# 5- Limite máximo de R$ 500,00 por saque
+# 6- Caso o usuário não tenha saldo em conta, o sistema deverá exibir uma mensagem
+# 7- Todos os saquees devem ser armazenados em uma variável e exibidos na opção de extrato
+# 8- O extrato deverá listar todos os depósitos e saques realizados na conta. No fim da listagem deve ser exibido o saldo atual da conta, no formato R$ xxx.xx
